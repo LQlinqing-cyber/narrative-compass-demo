@@ -2,7 +2,7 @@
 
 叙事罗盘静态演示版。页面沿用原站工作台布局，展示用户提供的中秋游园会真实测试报告，包含原稿、五模块、修复稿、90/100 分评分与文字差异。
 
-访问地址：[静态演示](https://wbh2865120967-max.github.io/narrative-compass-demo/)
+访问地址：[静态演示](https://lqlinqing-cyber.github.io/narrative-compass-demo/)
 
 原站入口：[连接 API 的叙事罗盘](https://narrative-compass-campus.jingxuantang031.chatgpt.site/)
 
