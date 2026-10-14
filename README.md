@@ -4,7 +4,7 @@
 
 访问地址：[静态演示](https://wbh2865120967-max.github.io/narrative-compass-demo/)
 
-原站入口：[连接 API 的叙事罗盘](https://narrative-compass-campus.jingxuantang031.chatgpt.site/svg)
+原站入口：[连接 API 的叙事罗盘](https://narrative-compass-campus.jingxuantang031.chatgpt.site/)
 
 本页无需登录，不调用 API。报告中的“修复稿复检”没有明细，页面如实说明；保留报告原有评分和建议，不新增结论。
 

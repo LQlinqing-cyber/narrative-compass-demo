@@ -30,7 +30,7 @@ try {
   assert.equal(await page.getByRole("heading", { name: "叙事罗盘", exact: true }).count(), 1);
   assert.equal(await page.getByText("静态模板演示api未连接", { exact: true }).count(), 1);
   assert.equal(await page.locator("#api-status-dot").evaluate((node) => getComputedStyle(node).backgroundColor), "rgb(239, 68, 68)");
-  assert.equal(await page.getByRole("link", { name: /^https:\/\/narrative-compass-campus/ }).getAttribute("href"), "https://narrative-compass-campus.jingxuantang031.chatgpt.site/svg");
+  assert.equal(await page.getByRole("link", { name: /^https:\/\/narrative-compass-campus/ }).getAttribute("href"), "https://narrative-compass-campus.jingxuantang031.chatgpt.site/");
   for (const field of await page.locator("textarea").all()) assert.equal(await field.getAttribute("readonly"), "");
   assert.equal(await page.getByRole("button", { name: "开始分析", exact: true }).count(), 0);
   const titles = ["结构诊断", "表达自检", "场景重写", "舆情沙盘", "传播评分"];
